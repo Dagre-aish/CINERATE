@@ -1,0 +1,6 @@
+{
+  "name": "CineRate - Cinema Rating & Critique Platform",
+  "description": "The definitive home for cinema lovers and critics. Deep catalog analysis, refined reviews, and curated discourse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
